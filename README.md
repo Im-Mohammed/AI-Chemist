@@ -147,14 +147,3 @@ Developed by Mohammed.
 ## Acknowledgments
 - Special thanks to Google AI for the Gemini Vision API.
 - Inspired by advancements in AI-driven healthcare applications.
-
-### Adjustments Made:
-1. Added a **Directory Structure** for better clarity.
-2. Highlighted troubleshooting steps for **Gemini API Deprecation**.
-3. Included **Contribution** and **License** sections.  
-
-Let me know if you need any additional modifications! 🚀
-```
-
-Feel free to copy and paste this code into your markdown file. If you need any more help, just let me know!
- 
