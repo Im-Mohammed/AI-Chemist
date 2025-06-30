@@ -142,7 +142,6 @@ This project is licensed under the MIT License.
 Developed by Mohammed.
 
 - [GitHub](https://github.com/)
-- [LinkedIn](https://www.linkedin.com/)
 
 ## Acknowledgments
 - Special thanks to Google AI for the Gemini Vision API.
