@@ -142,7 +142,3 @@ This project is licensed under the MIT License.
 Developed by Mohammed.
 
 - [GitHub](https://github.com/)
-
-## Acknowledgments
-- Special thanks to Google AI for the Gemini Vision API.
-- Inspired by advancements in AI-driven healthcare applications.
