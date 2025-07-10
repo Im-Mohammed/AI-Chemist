@@ -138,4 +138,7 @@ git push origin feature-name
 ## License
 This project is licensed under the MIT License.
 
+## Author
+Developed by Mohammed.
 
+- [GitHub](https://github.com/)
