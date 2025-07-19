@@ -196,9 +196,6 @@ This project is licensed under the **MIT License**.
 ## **Contact**
 
 Have questions, feedback, or ideas?
-
-📧 Email: [mohammed.ali@example.com](mailto:mohammed.ali@example.com)
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 🐙 GitHub Issues: [Submit here](https://github.com/Im-Mohammed/AI-Chemist/issues)
 
 ---
