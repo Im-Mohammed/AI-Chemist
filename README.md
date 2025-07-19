@@ -199,7 +199,3 @@ Have questions, feedback, or ideas?
 🐙 GitHub Issues: [Submit here](https://github.com/Im-Mohammed/AI-Chemist/issues)
 
 ---
-
-> ✨ Built with curiosity, code, and chemistry!
-
-
