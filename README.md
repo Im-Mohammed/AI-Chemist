@@ -192,7 +192,6 @@ This project is licensed under the **MIT License**.
 * [GitHub](https://github.com/Im-Mohammed)
 
 ---
-
 ## **Contact**
 
 Have questions, feedback, or ideas?
