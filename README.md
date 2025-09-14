@@ -131,7 +131,7 @@ Licensed under the **MIT License** – free to use, modify, and distribute.
 
 ## **Author**
 
-👨‍💻 Created by **Mohammed Ali**  
+👨‍💻 Created by **Mohammed**  
 🔗 [GitHub Profile](https://github.com/Im-Mohammed)
 
 ---
