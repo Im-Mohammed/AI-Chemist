@@ -132,7 +132,6 @@ Licensed under the **MIT License** – free to use, modify, and distribute.
 🔗 [GitHub Profile](https://github.com/Im-Mohammed)
 
 ---
-
 ## **Contact**
 💬 Questions or feedback?  
 Open an issue on [GitHub](https://github.com/Im-Mohammed/AI-Chemist/issues)
